@@ -5,6 +5,7 @@ const { Meta } = Card;
 
 
 const Cards = ({photos}) => {
+  
   return (
 
    <>
